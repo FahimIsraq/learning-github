@@ -3,3 +3,4 @@ new text
 hello
 practice
 bug
+checking
