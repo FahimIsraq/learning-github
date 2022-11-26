@@ -2,3 +2,4 @@ test1
 new text
 hello
 practice 
+bug fixing
