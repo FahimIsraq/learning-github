@@ -1,6 +1,11 @@
 test1
 new text
 hello
+<<<<<<< HEAD
 practice
 bug
 checking
+=======
+practice 
+bug fixing
+>>>>>>> ca92e57daf621dca47099b6c98f814bfcaa77af2
